@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/app/build/
+/app/build/intermediates/javac/debug/classes/
+/colorpicker/build/
+/colorpicker/build/intermediates/javac/debug/classes/
