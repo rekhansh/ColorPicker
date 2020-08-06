@@ -1,6 +1,6 @@
 # ColorPicker [![](https://jitpack.io/v/rekhansh/ColorPicker.svg)](https://jitpack.io/#rekhansh/ColorPicker) [![platform](https://img.shields.io/badge/platform-android-brightgreen.svg)](https://developer.android.com/index.html)
 A `ColorPicker` for Android.
-<img src='ColorPicker1.png' width='32%'/> <img src='ColorPicker2.png' width='32%'/> <img src='ColorPicker3.png' width='32%'/>
+<img src='Screenshots/ColorPicker1.png' width='32%'/> <img src='Screenshots/ColorPicker2.png' width='32%'/> <img src='Screenshots/ColorPicker3.png' width='32%'/>
 
 ## Gradle
 
