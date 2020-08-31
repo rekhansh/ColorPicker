@@ -8,6 +8,7 @@ import android.widget.ImageView
 import androidx.fragment.app.DialogFragment
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import com.google.android.material.slider.Slider
+import com.rekhansh.colorpicker.R
 
 class ColorPickerDialog(private val selectedColor : Int,private val colorPickerDialogListener: ColorPickerDialogListener) :
     DialogFragment() {
