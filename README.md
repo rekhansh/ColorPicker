@@ -6,12 +6,38 @@ A `ColorPicker` for Android.
 ## Gradle
 
 ```
+...
+allprojects {
+    repositories {
+        maven { url 'https://jitpack.io' }
+    }
+}
+...
 dependencies {
     implementation 'com.github.rekhansh:ColorPicker:${latestVersion}'
     ...
 }
 ```
 > Replace `${latestVersion}` with the latest version code. See [releases](https://github.com/rekhansh/ColorPicker/releases).
+
+## Use
+#### Java
+```
+ColorPickerDialog colorPicker = new ColorPickerDialog(selectedColor,(red, green, blue, alpha) -> {
+                    int selectedColor = Color.argb((int) alpha,(int) red,(int) green, (int) blue);
+                    //TODO - Use Color
+                });
+colorPicker.show(requireActivity().getSupportFragmentManager(),"color_picker");
+```
+#### Kotlin
+```
+ColorPickerDialog(selectedColor,object :ColorPickerDialog.ColorPickerDialogListener{
+                override fun onColorChange(red: Float, green: Float, blue: Float, alpha: Float) {
+                    val selectedColor = Color.argb(alpha.toInt(),red.toInt(),green.toInt(), blue.toInt())
+                    //TODO - Use Color
+                }
+            }).show(supportFragmentManager,"colorPicker")
+```
 ## License
   
     Copyright 2020 Rekhansh
