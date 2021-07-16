@@ -1,9 +1,12 @@
-# ColorPicker [![](https://jitpack.io/v/rekhansh/ColorPicker.svg)](https://jitpack.io/#rekhansh/ColorPicker) [![platform](https://img.shields.io/badge/platform-android-brightgreen.svg)](https://developer.android.com/index.html)
+# ColorPicker [![](https://jitpack.io/v/rekhansh/ColorPicker.svg)](https://jitpack.io/#rekhansh/ColorPicker) [![platform](https://img.shields.io/badge/platform-android-brightgreen.svg)](https://developer.android.com/index.html) [![issue](https://img.shields.io/github/issues/rekhansh/ColorPicker)](https://github.com/rekhansh/ColorPicker/issues)
 A `ColorPicker` for Android.
 
-<img src='Screenshots/ColorPicker1.png' width='32%'/> <img src='Screenshots/ColorPicker2.png' width='32%'/> <img src='Screenshots/ColorPicker3.png' width='32%'/>
+<a href="https://www.buymeacoffee.com/rekhansh" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 50px !important;" height='50px'>
+</a>
 
-<a href="https://www.buymeacoffee.com/rekhansh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+## Screenshots
+<img src='Screenshots/ColorPicker1.png' width='32%'/> <img src='Screenshots/ColorPicker2.png' width='32%'/> <img src='Screenshots/ColorPicker3.png' width='32%'/>
 
 ## Gradle
 
