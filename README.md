@@ -3,6 +3,8 @@ A `ColorPicker` for Android.
 
 <img src='Screenshots/ColorPicker1.png' width='32%'/> <img src='Screenshots/ColorPicker2.png' width='32%'/> <img src='Screenshots/ColorPicker3.png' width='32%'/>
 
+<a href="https://www.buymeacoffee.com/rekhansh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 ## Gradle
 
 ```
