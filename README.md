@@ -6,7 +6,7 @@ A `ColorPicker` for Android.
 </a>
 
 ## Screenshots
-<img src='Screenshots/ColorPicker1.png' width='32%'/> <img src='Screenshots/ColorPicker2.png' width='32%'/> <img src='Screenshots/ColorPicker3.png' width='32%'/>
+<img src='Screenshots/ColorPicker1.png' width='32%'/> <img src='Screenshots/ColorPicker2.png' width='32%'/>
 
 ## Gradle
 
