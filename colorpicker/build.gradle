@@ -1,5 +1,5 @@
 ext {
-    material_version = '1.5.0-alpha01'
+    material_version = '1.12.0-alpha03'
 }
 apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
